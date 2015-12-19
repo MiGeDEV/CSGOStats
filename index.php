@@ -1,7 +1,8 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Milli
- * Date: 19-12-2015
- * Time: 01:36 PM
+ * CSGOStats
+ * Author: Milli
+ * Time: 19-12-2015 | 02:33 PM
+ * File: index.php
  */

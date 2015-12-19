@@ -1,9 +1,10 @@
 <?php
 /**
  * Created by PhpStorm.
- * User: Milli
- * Date: 19-12-2015
- * Time: 01:36 PM
+ * CSGOStats
+ * Author: Milli
+ * Time: 19-12-2015 | 02:35 PM
+ * File: database.php
  */
 
 $db_host = "localhost";     //database server. Normally, localhost is sufficient if on the same machine
